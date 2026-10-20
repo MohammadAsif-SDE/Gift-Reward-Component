@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="preview.gif" alt="3D Rewards Celebration preview" width="900">
-</p>
-
 <h1 align="center">3D Rewards Celebration</h1>
 
 <p align="center">
@@ -23,6 +19,12 @@
   <a href="#interaction-flow">Interaction Flow</a>
   ·
   <a href="#deployment">Deployment</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="preview.gif" alt="3D Rewards Celebration preview" width="900">
 </p>
 
 ## Overview
